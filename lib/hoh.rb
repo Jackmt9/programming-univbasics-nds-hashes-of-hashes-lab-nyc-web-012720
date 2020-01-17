@@ -40,6 +40,13 @@ def naming_system
   #  Genus
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
-  return {Kingdom:
+  return {
+  label: "Kingdom",
+  sub_category: {
+    label: "Phylum",
+    sub_category: {
+      label: "Class"
+    }
   }
+}
 end
