@@ -40,6 +40,6 @@ def naming_system
   #  Genus
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
-  return {
+  return {Kingdom:
   }
 end
