@@ -41,12 +41,5 @@ def naming_system
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   return {
-    ,
-    ,
-    Order:,
-    Genus:.
-    ,
-    ,
-    Species: nil
   }
 end
