@@ -40,5 +40,5 @@ def naming_system
   #  Genus
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
-# {PORTION_1, PORTION_2, PORTION_3, PORTION_4}
+  
 end
